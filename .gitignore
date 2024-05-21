@@ -1,0 +1,64 @@
+# Build folders
+/build/
+/app/build/
+
+# IDEs and editors
+/.idea
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration file (sdk path, etc)
+/local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle
+.gradle/
+/out/
+build/
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures
+captures/
+
+# IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+
+# User-specific configurations
+.idea/libraries
+
+# MacOS specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
